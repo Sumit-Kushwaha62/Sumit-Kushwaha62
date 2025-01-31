@@ -1,10 +1,8 @@
-![logo] (https://github.com/Sumit-Kushwaha62/Sumit-Kushwaha62/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 
 
 <h1 align="center">Hi 👋, I'm Sumit Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align = "right" alt="coding" width="400" src=" https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZyYmNwazBpdGR1d2lpbWN2MmVwaW1sMnQwcHdyNHh5dmp5c3oxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" >
 
 
 
