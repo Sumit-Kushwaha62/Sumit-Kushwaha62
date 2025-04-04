@@ -13,6 +13,17 @@
 
 - 📫 How to reach me **sumitkushwaha75099@gmail.com**
 
+### 👨‍💻 About Me
+- 🔭 I’m currently working on MERN stack projects
+- 🌱 Exploring Machine Learning and AI
+- 🧠 Interested in building real-world products
+- ⚡ Fun fact: I love chess, singing, and exploring new tech!
+
+
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+
 ---
 
 <h3 align="left">Connect with me:</h3>
