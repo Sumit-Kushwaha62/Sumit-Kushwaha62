@@ -10,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=sumit-kushwaha62&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-kushwaha62" />
 </p>
 
-- 🌱 I’m currently learning **Machine learning and Artificial Intelligence**
+- 🌱 I’m currently exploring **Machine learning and Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://sumitkushwaha.vercel.app/](https://sumitkushwaha.vercel.app/)
+- 👨‍💻 All of my projects are available at [Sumit-Kushwaha](https://sumit-kushwaha.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
@@ -39,12 +39,12 @@
   <a href="https://instagram.com/sumitkushwaha2004" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Sumit_Kushwaha/" target="_blank">
+<!--   <a href="https://leetcode.com/u/Sumit_Kushwaha/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/sumitkushwhara/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+  </a> -->
 </p>
 
 ---
